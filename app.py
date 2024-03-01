@@ -2,7 +2,12 @@ import streamlit as st
 import pandas as pd
 import tensorflow as tf
 
+url = "https://github.com/mandar-rane"
+
+
 st.title("Customer Churn Prediction 📈")
+st.text("- Mandar Rane")
+st.write("GitHub: (%s)" % url)
 col1, col2, col3 = st.columns(3)
 
 with col1:
