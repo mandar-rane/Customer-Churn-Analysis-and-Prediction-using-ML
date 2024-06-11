@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import tensorflow as tf
 
-url = "https://github.com/mandar-rane"
+url = "https://github.com/mandar-rane/Customer-Churn-Analysis-and-Prediction-using-ML"
 
 
 st.title("Customer Churn Prediction 📈")
